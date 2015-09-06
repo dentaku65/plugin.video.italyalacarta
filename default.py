@@ -6,11 +6,11 @@
 #------------------------------------------------------------
 
 # Constants
-__plugin__  = "pelisalacarta"
-__author__  = "pelisalacarta"
+__plugin__  = "italyalacarta"
+__author__  = "italyalacarta"
 __url__     = "http://blog.tvalacarta.info/plugin-xbmc/pelisalacarta/"
-__date__ = "26/03/2015"
-__version__ = "4.0"
+__date__ = "06/09/2015"
+__version__ = "1.0.0"
 
 import os
 import sys
